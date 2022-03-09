@@ -10,7 +10,7 @@ This document attempts to answer the question of, "how do you get more than a bi
 <section class="footnotes">
 <hr />
 <ol>
-<li id="fn1"><p>This is the first footnote.<a href="#fnref1" class="footnote-back">zzz</a></p></li>
+<li id="fn1"><p>The Emergency Use Authorization authority allows the FDA via the Federal Food, Drug, and Cosmetic Act, when declared that an emergency use authorization is appropriate, to authorize unapproved medical products or unapproved uses of approved medical products to be used in an emergency to diagnose, treat, or prevent serious or life-threatening diseases or conditions caused by chemical, biological, radiological, and nuclear threat agents when certain criteria are met, including there are no adequate, approved, and available alternatives.<a href="#fnref1" class="footnote-back"></a></p></li>
 </ol>
 </section>
 
