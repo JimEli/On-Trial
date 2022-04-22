@@ -1,7 +1,7 @@
 # On Trial: A Critical Look at the Pfizer Phase 3 Covid Vaccine Study
 
 <p>
-The vaccines were approved for emergency use based on both minimal and inadequate studies to evaluate their safety and effectiveness.
+The vaccines were approved for emergency use based on both minimal and inadequate studies to evaluate their safety and effectiveness when compared with the standard <a href="https://www.cdc.gov/vaccines/parents/infographics/journey-of-child-vaccine.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fvaccines%2Fparents%2Finfographics%2Fjourney-of-child-vaccine-text.html">vaccine approval process</a> and timeframe.
   
 Should we find it shocking that vaccine developers, government officials, media, and vaccine fanatics are pushing these vaccines at breakneck speed on an unsuspecting population?
 
@@ -17,4 +17,3 @@ This document attempts to answer the question of, "how do you get more than a bi
 </li>
 </ol>
 </section>
-
