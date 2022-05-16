@@ -7,7 +7,7 @@ Herein is a review of some of the publicly available documents regarding Pfizerâ
 
 Should we find it shocking that vaccine developers, government officials, media, and vaccine fanatics are pushing these vaccines at breakneck speed on an unsuspecting population?
 
-This document attempts to answer the question of, "how do you get more than a billion people to take an unapproved medical product?<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a><a href="#fn3" class="footnote-ref" id="fnref3"><sup>, 3</sup></a>
+This document will answer the question of, "how do you get more than a billion people to take an unapproved medical product?<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a><a href="#fn3" class="footnote-ref" id="fnref3"><sup>, 3</sup></a>
 </p>
 
 <section class="footnotes">
