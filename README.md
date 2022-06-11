@@ -5,7 +5,7 @@ The Covid vaccines were approved for emergency use based on both minimal and ina
 
 Herein is a review of some of the publicly available documents regarding Pfizer’s Covid vaccine development. <i>Spoiler alert:</i> significant evidence of questionable practices, deficiencies and omissions will be highlighted. The omissions of standard safety precautions and glaring scientific dishonesty are so obvious, they cannot be attributed to the incompetence of the manufacturer or regulators. Everything uncovered here is clearly visible to the untrained eye, but was never questioned by the regulators, health authorities or the media. The cursory nature of the development and authorization program at times can be summarized as, “no safety signals were found because we didn’t look for them.” It is left to the reader to decide if any of these approaches willful misconduct and negligence.
 
-Should we find it shocking that vaccine developers, government officials, media, and vaccine fanatics are pushing these vaccines at breakneck speed on an unsuspecting population?
+Shouldn't we find it shocking that vaccine developers, government officials, media, and vaccine fanatics are pushing these vaccines at breakneck speed on an unsuspecting population?
 
 This document will answer the question of, "how do you get more than a billion people to take an unapproved medical product?<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a><a href="#fn3" class="footnote-ref" id="fnref3"><sup>, 3</sup></a>
 </p>
