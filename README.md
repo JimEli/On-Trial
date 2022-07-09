@@ -1,6 +1,5 @@
-# On Trial
-## A Critical Look at the Pfizer Phase 3 Covid Vaccine Study
-### Including "No Cofidence: A Quick Look at Pfizer's Phase 3 Covid Vaccine Trial for Children"
+# On Trial: A Critical Look at the Pfizer Phase 3 Covid Vaccine Study
+## Including "No Cofidence: A Quick Look at Pfizer's Phase 3 Covid Vaccine Trial for Children"
 
 <p>
 The Covid vaccines were approved for emergency use based on both minimal and inadequate studies to evaluate their safety and effectiveness when compared with the standard <a href="https://www.cdc.gov/vaccines/parents/infographics/journey-of-child-vaccine.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fvaccines%2Fparents%2Finfographics%2Fjourney-of-child-vaccine-text.html">vaccine approval process</a><a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>.
