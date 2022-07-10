@@ -1,5 +1,5 @@
 # On Trial: A Critical Look at the Pfizer Phase 3 Covid Vaccine Study
-## Including "No Cofidence: A Quick Look at Pfizer's Phase 3 Covid Vaccine Trial for Children"
+## No Cofidence: A Quick Look at Pfizer's Phase 3 Covid Vaccine Trial for Children
 
 <p>
 Herein is a review of some of the publicly available official documents regarding Pfizer’s Covid vaccine development.
