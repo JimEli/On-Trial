@@ -4,9 +4,9 @@
 <p>
 Herein is a review of some of the publicly available official documents regarding Pfizer’s Covid vaccine development.
   
-The Covid vaccines were approved for emergency use based on both minimal and inadequate studies to evaluate their safety and effectiveness when compared with the standard <a href="https://www.cdc.gov/vaccines/parents/infographics/journey-of-child-vaccine.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fvaccines%2Fparents%2Finfographics%2Fjourney-of-child-vaccine-text.html">vaccine approval process</a><a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>.
-
 <i>Spoiler alert:</i> 
+
+The Covid vaccines were approved for emergency use based on both minimal and inadequate studies to evaluate their safety and effectiveness when compared with the standard <a href="https://www.cdc.gov/vaccines/parents/infographics/journey-of-child-vaccine.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fvaccines%2Fparents%2Finfographics%2Fjourney-of-child-vaccine-text.html">vaccine approval process</a><a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>.
 
 Significant evidence of questionable practices, deficiencies and omissions will be highlighted. The omissions of standard safety precautions and glaring scientific dishonesty are so obvious, they cannot be attributed to the incompetence of the manufacturer or regulators. Everything uncovered here is clearly visible to the untrained eye, but was never questioned by the regulators, health authorities or the media. 
   
