@@ -12,7 +12,7 @@ Significant evidence of questionable practices, deficiencies and omissions will 
   
 The cursory nature of the development and authorization program at times can be summarized as, “no safety signals were found because we didn’t look for them."<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a> All of which begs to ask, "shouldn't we find it shocking that vaccine developers, government officials, media, and vaccine fanatics are pushing these vaccines at breakneck speed on an unsuspecting population?" 
   
-Evidenced based medicine has died.<a href="#fn3" class="footnote-ref" id="fnref3"><sup>3</sup></a>
+Evidenced based medicine has died.<a href="#fn3" class="footnote-ref" id="fnref3"><sup>3</sup></a> I’m sorry to state it, but if you read this, you’ll probably never trust the pharmaceutical industry ever again.
 
 This document will answer the question of, "how do you get more than a billion people to take an unapproved medical product?<a href="#fn4" class="footnote-ref" id="fnref4"><sup>4</sup></a><a href="#fn5" class="footnote-ref" id="fnref5"><sup>, 5</sup></a>
 </p>
