@@ -16,7 +16,7 @@ The cursory nature of the development and authorization program at times can be 
 
 We should be enacting risk mitigation and calling for a pause in mass vaccination. If a disinterested non-associated party authorized and empowered to monitor the vaccine process does not exist, then vaccination should be halted immediately, in particular for demographic groups at highest risk of vaccine-associated death or serious adverse effects (at least during such time as it takes to assemble these boards and commence critical and independent assessments). The “do something, do anything” mindset adopted early in the pandemic must be constrained as the cure is becoming worse than the disease.
   
-Evidenced based medicine has died.<a href="#fn3" class="footnote-ref" id="fnref3"><sup>3</sup></a> I’m sorry to state it, but if you read this, you’ll probably never trust the pharmaceutical industry ever again.
+Evidenced based medicine has died.<a href="#fn3" class="footnote-ref" id="fnref3"><sup>3</sup></a> I’m sorry to state it, but if you read this, you’ll will never trust the pharmaceutical industry again.
 
 This document will answer the question of, "how do you get more than a billion people to take an unapproved medical product?<a href="#fn4" class="footnote-ref" id="fnref4"><sup>4</sup></a><a href="#fn5" class="footnote-ref" id="fnref5"><sup>, 5</sup></a>
 </p>
