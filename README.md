@@ -4,13 +4,13 @@
 <p>
 Herein is a review of some of the publicly available official documents regarding Pfizer’s Covid vaccine development.
 
+Since the start of the Covid outbreak, the race for testing new platforms designed to confer immunity against it, has been rampant and unprecedented. Under conditional emergency authorization, the current mandate is to immunize the world population as quickly as possible. The lack of thorough testing in animals prior to clinical trials, and authorization based on safety data generated during trials that lasted less than 3-1/2 months, raises questions regarding vaccine safety.
+
 <i>Spoiler alert:</i> 
 
 The Covid vaccines were approved for emergency use based on both minimal and inadequate studies to evaluate their safety and effectiveness when compared with the standard <a href="https://www.cdc.gov/vaccines/parents/infographics/journey-of-child-vaccine.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fvaccines%2Fparents%2Finfographics%2Fjourney-of-child-vaccine-text.html">vaccine approval process</a><a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>.
 
-Since the start of the Covid outbreak, the race for testing new platforms designed to confer immunity against it, has been rampant and unprecedented. Under conditional emergency authorization, the current mandate is to immunize the world population as quickly as possible. The lack of thorough testing in animals prior to clinical trials, and authorization based on safety data generated during trials that lasted less than 3-1/2 months, raises questions regarding vaccine safety.
-
-Significant evidence of questionable practices, deficiencies and omissions will be highlighted. The omissions of standard safety precautions and glaring scientific dishonesty are so obvious, they cannot be attributed to the incompetence of the manufacturer or regulators. Everything uncovered here is clearly visible to the untrained eye, but was never questioned by the regulators, health authorities or the media. 
+Significant evidence of questionable practices, deficiencies and omissions will be highlighted. The omissions of standard safety precautions and glaring scientific dishonesty are so obvious, they cannot be attributed to the incompetence of the manufacturer or regulators. Everything uncovered here is clearly visible to the untrained eye, but was never questioned by regulators, health authorities or the media. 
 
 The cursory nature of the development and authorization program at times can be summarized as, “no safety signals were found because we didn’t look for them."<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a> Given the high rate of occurrence of reported adverse effects, as well as the potential for vaccine-driven disease enhancement, autoimmunity, and immune evasion, there is a need for a better understanding of the benefits and risks of mass vaccination, particularly in groups excluded from the brief clinical trials. Despite calls for caution, risk minimization has been ignored by health organizations, government authorities and any critical information regarding the vaccinations has been censored by the media. 
 
